@@ -92,22 +92,7 @@
       "feat": "A Markdown playground with a preview panel to play with codes written in JS, HTML5 and CSS3"
     }
   },
-  {
-    "name": "Google Cricket",
-    "icon": "https://www.businessinsider.in/photo/75425726/how-to-play-cricket-on-google.jpg?imgsize=138543",
-    "type": "app",
-    "data": {
-      "type": "IFrame",
-      "url": "https://doodlecricket.github.io/#/",
-      "gallery": [
-        "https://www.businessinsider.in/photo/75425726/how-to-play-cricket-on-google.jpg?imgsize=138543",
-        "https://www.google.com/logos/doodles/2017/icc-champions-trophy-2017-begins-5642111205507072.6-lawcta.gif",
-        "https://i.ytimg.com/vi/Ud9Ts_NYAjQ/maxresdefault.jpg"
-      ],
-      "desc": "Playing Cricket in online",
-      "feat": "virtual cricket"
-
-    }
+  
   },
   {
     "name": "Excel",
